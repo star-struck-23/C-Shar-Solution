@@ -1,10 +1,6 @@
 using System;
 
 namespace Algorithms.Strings;
-
-/// <summary>
-///     Implements simple algorithms on strings.
-/// </summary>
 public static class GeneralStringAlgorithms
 {
     /// <summary>
